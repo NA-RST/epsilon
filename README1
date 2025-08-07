@@ -1,0 +1,73 @@
+Last login: Thu Aug  7 09:19:18 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+NAir:GitHub nayher$ git clone https://github.com/NA-RST/epsilon.git
+Cloning into 'epsilon'...
+Username for 'https://github.com': nher16
+Password for 'https://nher16@github.com': 
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/NA-RST/epsilon.git/'
+NAir:GitHub nayher$ git clone https://github.com/NA-RST/epsilon.git
+Cloning into 'epsilon'...
+Username for 'https://github.com': nher16
+Password for 'https://nher16@github.com': 
+remote: Write access to repository not granted.
+fatal: unable to access 'https://github.com/NA-RST/epsilon.git/': The requested URL returned error: 403
+NAir:GitHub nayher$ git clone https://github.com/NA-RST/epsilon.git
+Cloning into 'epsilon'...
+Username for 'https://github.com': nher16
+Password for 'https://nher16@github.com': 
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/NA-RST/epsilon.git/'
+NAir:GitHub nayher$ git clone https://github.com/NA-RST/epsilon.git
+Cloning into 'epsilon'...
+Username for 'https://github.com': nher16
+Password for 'https://nher16@github.com': 
+remote: Enumerating objects: 22, done.
+remote: Counting objects: 100% (22/22), done.
+remote: Compressing objects: 100% (13/13), done.
+remote: Total 22 (delta 3), reused 22 (delta 3), pack-reused 0 (from 0)
+Receiving objects: 100% (22/22), 10.92 KiB | 5.46 MiB/s, done.
+Resolving deltas: 100% (3/3), done.
+NAir:GitHub nayher$ cd your-repo
+-bash: cd: your-repo: No such file or directory
+NAir:GitHub nayher$ cd Users/nayher/Documents/GitHub/epsilon
+-bash: cd: Users/nayher/Documents/GitHub/epsilon: No such file or directory
+NAir:GitHub nayher$ ls
+HerN-CSET-DRA-App	epsilon
+NAir:GitHub nayher$ cd ./epsilon
+NAir:epsilon nayher$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+NAir:epsilon nayher$ ls
+README1.md	README1_PO.md	README2.md	code		data
+NAir:epsilon nayher$ nano README1.md
+
+  UW PICO 5.09                    File: README1.md                    Modified  
+
+Version Control Training README1: Nayomi Her
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  

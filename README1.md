@@ -1,3 +1,9 @@
+Piper is from Vermont. 
+
+She has the initials "POO".
+
+Fun fact - not ticklish. 
+
 <<<<<<< HEAD
 Version Control Training README1: Nayomi Her
 
